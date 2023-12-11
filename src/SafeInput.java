@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SafeInput {
 
     static Scanner in = new Scanner(System.in);
-    int git;
+
 
     public static String getNonZeroLenStrings(Scanner pipe, String prompt) {
         String retString = "";

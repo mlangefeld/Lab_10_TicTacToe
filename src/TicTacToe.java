@@ -8,7 +8,7 @@ public class TicTacToe {
         Scanner in = new Scanner(System.in);
         String currentPlayer;
         boolean playAgain = false;
-        int git;
+
 
 
         do {
